@@ -1,0 +1,6 @@
+PATCH   http://localhost:3000/api/users/17
+Content-Type: application/json
+
+{
+    "firstName": "NewTest"
+}
